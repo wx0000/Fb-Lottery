@@ -27,22 +27,6 @@ const possibilities = [
     'Oliwia Misiak',
     'Kamil Ban Rzeszotek',
     'Aleksander Wróblewski',
-    'Rafał Czapla',
-    'Wiktor Hys',
-    'Pola Glińska',
-    'Angelika Julia Siejka',
-    'Marta Zgudka',
-    'Kuba Luboński',
-    'Radek Gonciarz',
-    'Kamila Osentowska',
-    'Mateusz Ropiak',
-    'Marcin Kowalski',
-    'Kacper Trocha',
-    'Bartek Warsz',
-    'Aleksandra Krakowska',
-    'Kamil Małucha',
-    'Marzena Grzesiak',
-    'Jan Steć',
 ];
 const addBtn = document.querySelector('button.add');
 const cleanBtn = document.querySelector('button.clean');
